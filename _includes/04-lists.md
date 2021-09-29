@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+[X] Thing done
+[] Thing i havent done
